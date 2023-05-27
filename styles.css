@@ -1,0 +1,15 @@
+.first-item {
+    background-color: yellow;
+}
+
+#my-header {
+    color: red;
+    background-color: black;
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid blue;
+    border-radius: 10px;
+    font-style: italic;
+}
